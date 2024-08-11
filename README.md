@@ -2,7 +2,8 @@
 
 **Cosmic Crossing** is a dynamic retro arcade-style game where players navigate a rocket through a perilous field of moving asteroids. Using simple keyboard controls, players guide their rocket upward, aiming to reach the finish line at the top of the screen while avoiding collisions with asteroids that continuously appear and move across the screen. As players progress, the game's difficulty increases, with faster-moving asteroids adding to the challenge. Featuring custom graphics and a scoreboard to track levels, Cosmic Crossing offers an exciting and increasingly intense gaming experience with a nostalgic retro vibe.
 
-![image](https://github.com/user-attachments/assets/6d00bbf7-aacb-4d3c-85cc-16d151cfdeed)
+![image](https://github.com/user-attachments/assets/f1266765-0e38-4e95-ba4c-7b5027ae6597)
+
 
 ## 🎮 Features
 
